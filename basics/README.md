@@ -1,0 +1,1 @@
+This is the README of shell basics script.
